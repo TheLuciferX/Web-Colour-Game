@@ -8,6 +8,6 @@ There are 2 modes, an easy mode consisting of 3 options, and a hard mode which h
 
 Examples:
 ---------
-![hard](https://i.imgur.com/Lu6tNpk.gif)
-
-![easy](https://i.imgur.com/493qrbu.gif)
+<img scr="https://i.imgur.com/493qrbu.gif">
+---------
+<img src="https://i.imgur.com/Lu6tNpk.gif">
