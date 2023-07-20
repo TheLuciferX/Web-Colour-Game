@@ -8,6 +8,8 @@ There are 2 modes, an easy mode consisting of 3 options, and a hard mode which h
 
 Examples:
 ---------
-![easy](https://i.imgur.com/493qrbu.gif)
----------
-![hard](https://i.imgur.com/Lu6tNpk.gif)
+Easy:
+![easy](https://github.com/TheLuciferX/Web-Colour-Game/blob/master/gifs/easy.gif)
+
+Hard:
+![hard](https://github.com/TheLuciferX/Web-Colour-Game/blob/master/gifs/hard.gif)
