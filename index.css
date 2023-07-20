@@ -1,0 +1,42 @@
+.bg-custom {
+	background: #4078a9;
+	transform: background 2.0s;
+}
+body {
+	background: #1f1f1f;
+}
+.text-custom {
+	font-weight: bold;
+	color: #4078a9;
+	cursor: pointer;
+}
+.text-custom-two {
+	font-weight: bold;
+	background: #4078a9;
+	color: #fff;
+}
+.title {
+	font-weight: 100;
+	font-size: 2em;
+}
+.main-title {
+	font-size: 5em;
+	letter-spacing: 0em;
+}
+.square {
+	width: 30%;
+	background: #fff;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	cursor: pointer;
+	border-radius: 15%;
+	transition: background 2.0s;
+}
+.try-again {
+	font-weight: bold;
+	color: #fff;
+}
+.container {
+	max-width: 800px;
+}
