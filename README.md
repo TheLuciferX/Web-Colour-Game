@@ -10,4 +10,4 @@ Examples:
 ---------
 ![](https://i.imgur.com/493qrbu.gif)
 
-![](https://i.imgur.com/BisjbIr.mp4)
+![](https://i.imgur.com/Lu6tNpk.gif)
